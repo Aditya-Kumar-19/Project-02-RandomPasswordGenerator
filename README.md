@@ -29,5 +29,4 @@ A Python application to generate strong, secure, and random passwords. This tool
 
 1. Clone this repository or download the source files:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
-   cd password-generator
+   git clone https://github.com/Aditya-Kumar-19/Project-02-RandomPasswordGenerator.git
